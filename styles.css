@@ -1,0 +1,58 @@
+p {
+    font-size: 24px;
+}
+
+.first-container {
+    display: flex;
+    border: 4px solid pink;
+    margin: 16px;
+
+
+
+}
+.second-container {
+    display: flex;
+    border: 4px solid pink;
+    margin:16px;
+    gap:16px;
+}
+.third-container {
+    display: flex;
+    border: 4px solid pink;
+    margin: 16px;
+    flex-direction: column;
+    gap: 16px;
+    padding: 16px;
+
+}
+.fourth-container {
+    display: flex;
+    border: 4px solid pink;
+    margin: 16px;
+    justify-content: space-between;
+    padding: 0px 16px;
+}
+.fifth-container {
+    display: flex;
+    border: 4px solid pink;
+    margin: 16px;
+    padding: 16px 16px;
+    gap: 16px;
+    justify-content: flex-end;
+}
+.sixth-container {
+    display: flex;
+    border: 4px solid pink;
+    margin: 16px;
+    justify-content: space-around;
+    
+}
+
+.seventh-container {
+    display: flex;
+    border: 4px solid pink;
+    margin: 16px;
+
+}
+
+
